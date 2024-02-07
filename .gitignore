@@ -26,5 +26,5 @@ coverage
 *.njsproj
 *.sln
 *.sw?
-
+src/constant/index.js
 *.tsbuildinfo
